@@ -8,3 +8,9 @@
     xmlns:android   = "http://schemas.android.com/apk/res/android"
     id              = "com.lumberg.greeeaaat"
     version         = "1.0.0">
+<icon src="http://app.txirula.com/icon.png" gap:platform="android" gap:density="ldpi" />
+<icon src="http://app.txirula.com/icon.png" gap:platform="android" gap:density="mdpi" />
+<icon src="http://app.txirula.com/icon.png" gap:platform="android" gap:density="hdpi" />
+<icon src="http://app.txirula.com/icon.png" gap:platform="android" gap:density="xhdpi" />
+<icon src="http://app.txirula.com/icon.png" gap:platform="android" gap:density="xxhdpi" />
+
