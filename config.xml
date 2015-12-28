@@ -8,7 +8,7 @@ Txirula
 <author href="http://www.txirula.com" email="info@txirula.com">
 Txirula
 </author> 
-<icon src="http://txirula.com/ic_launcher.png" width="72" height="72" />
-<icon src="http://txirula.com/ic_launcher.png" width="48" height="48" />
-<icon src="http://txirula.com/ic_launcher.png" width="36" height="36" />
+<icon src="http://app.txirula.com/icon.png" width="72" height="72" />
+<icon src="http://app.txirula.com/icon.png" width="48" height="48" />
+<icon src="http://app.txirula.com/icon.png" width="36" height="36" />
 </widget>
